@@ -1,6 +1,7 @@
 # namer_app
 
 A new Flutter project.
+This project is based on the content/course available at [Your first Flutter app](https://codelabs.developers.google.com/codelabs/flutter-codelab-first#0) and [Building your first Flutter App - with a Codelab!](https://youtu.be/8sAyPDLorek?si=pN_IXD4OjoOy-CsS).
 
 ## Getting Started
 
